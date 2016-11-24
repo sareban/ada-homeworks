@@ -1,7 +1,20 @@
 # 04 - Applied ML
 
+## 04 - ML- 1. PreProcessing.ipynb
+does preprocessing of the initial dataset to be further used in the next parts.
+
+## 04 - ML- 2. Classification.ipynb
+contains the classification attempt (part 1) as well as the bonus.
+
+## 04 - ML- 3. Clustering.ipynb
+contains the clustering attempt (part 2)
+
+
+
+
+
 ## Deadline
-Tuesday November 22, 2016 at 11:59PM
+Thursday November 24, 2016 at 11:59PM
 
 ## Important Notes
 * Make sure you push on GitHub your Notebook with all the cells already evaluated
